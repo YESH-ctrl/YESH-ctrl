@@ -1,27 +1,192 @@
-# 💫 About Me:
-I'm an Artificial Intelligence & Data Science undergraduate passionate about designing intelligent systems that solve real-world problems through AI, Machine Learning, and scalable software engineering.<br><br>Currently, I'm building AI-powered products involving:<br>- 🤖 Multi-Agent AI Systems<br>- 🧠 Large Language Models (LLMs)<br>- 🔍 Knowledge Graphs & RAG<br>- 📊 Data Analytics & Intelligent Recommendations<br>- ⚙️ Scalable Backend Systems with FastAPI & PostgreSQL<br><br>Apart from coding, I serve as the President of the Entrepreneurship Cell (E-Cell) at BVRIT, where I lead innovation initiatives and collaborate with founders, startups, and student communities.
+```{=html}
+<h1 align="center">
+```
+Hi 👋, I'm Dasari Yeswanth Kumar
+```{=html}
+</h1>
+```
+```{=html}
+<h3 align="center">
+```
+AI Engineer • Artificial Intelligence & Data Science Undergraduate •
+Building Intelligent Systems
+```{=html}
+</h3>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Machine+Learning;Building+Intelligent+Systems;FastAPI+%7C+LLMs+%7C+Knowledge+Graphs;Always+Learning+Something+New"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/dasari-yeswanth-1202h07">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:yeswanthdasari1412@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="https://github.com/YESH-ctrl">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
+`<img src="https://komarev.com/ghpvc/?username=YESH-ctrl&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>`{=html}
+```{=html}
+</p>
+```
 
+------------------------------------------------------------------------
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeswanth_dasari_1412) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dasari-yeswanth-1202h07) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yeswanthdasari1412@gmail.com) 
+# 💫 About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Three js](https://img.shields.io/badge/threejs-black?style=flat&logo=three.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=flat&logo=gunicorn&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=YESH-ctrl&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=YESH-ctrl&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=YESH-ctrl&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm an **Artificial Intelligence & Data Science undergraduate**
+passionate about designing intelligent systems that solve real-world
+problems through **AI, Machine Learning, and scalable Software
+Engineering**.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YESH-ctrl&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
+### 🚀 Currently Building
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+-   🤖 Multi-Agent AI Systems
+-   🧠 Large Language Models (LLMs)
+-   🔍 Knowledge Graphs & Retrieval-Augmented Generation (RAG)
+-   📊 AI-powered Recommendation & Analytics Systems
+-   ⚙️ FastAPI & PostgreSQL Backend Architectures
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YESH-ctrl&limit=5&theme=merko&combine_all_yearly_contributions=true)
+Beyond engineering, I serve as the **President of the Entrepreneurship
+Cell (E-Cell), BVRIT**, leading innovation initiatives, startup
+programs, and collaborating with founders, mentors, and student
+communities.
 
----
-[![](https://komarev.com/ghpvc/?username=YESH-ctrl&icon=6&color=10)](https://visitcount.itsvg.in)
+------------------------------------------------------------------------
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects
+
+### 🏥 AI-Powered Healthcare Career Intelligence Platform
+
+Built a multi-agent AI platform using **FastAPI, PostgreSQL, LLMs,
+Knowledge Graphs, and RAG** for personalized career intelligence.
+
+### 🛒 Amazon LifeGraph
+
+Developed an intent-based shopping platform powered by **LLMs, Knowledge
+Graphs, and Multi-Agent Systems** to deliver personalized
+recommendations.
+
+### 🔐 Firewall Drift Detection & Remediation Agent
+
+Engineered an AI-powered security automation platform integrating
+**Cloudflare, GitLab APIs, and intelligent workflow orchestration**.
+
+### 📊 Real-Time Data Analytics Platform
+
+Built a scalable analytics platform with **FastAPI, PostgreSQL, REST
+APIs, and interactive dashboards** for real-time business insights.
+
+### 💳 CamPay
+
+Designed a smart campus digital wallet enabling secure QR-based
+payments, expense tracking, and reward management.
+
+------------------------------------------------------------------------
+
+# 💻 Tech Stack
+
+### 🤖 AI & ML
+
+Python • TensorFlow • Scikit-Learn • LLMs • LangChain • RAG • Knowledge
+Graphs • Prompt Engineering
+
+### ⚙️ Backend
+
+FastAPI • Flask • Node.js • Express.js • REST APIs • JWT
+
+### 🗄️ Databases
+
+PostgreSQL • MongoDB • MySQL • SQL
+
+### 🎨 Frontend
+
+React • Tailwind CSS • Flutter • HTML • CSS • JavaScript
+
+### ☁️ Cloud & DevOps
+
+Docker • AWS • Firebase • Vercel • Cloudflare • GitHub Actions
+
+### 🛠️ Tools
+
+Git • GitHub • Postman • Swagger • Figma • Canva
+
+------------------------------------------------------------------------
+
+# 🌱 Currently Learning
+
+-   Agentic AI
+-   LangGraph
+-   Model Context Protocol (MCP)
+-   Kubernetes
+-   Distributed Systems
+-   Advanced Machine Learning
+
+------------------------------------------------------------------------
+
+# 🏆 Achievements
+
+-   🥇 Best Performer --- Design-A-Thon Hackathon (VNR VJIET)
+-   🚀 Finalist --- Launchpad: Ground Reality Pitching Event (BITS
+    Hyderabad)
+-   📄 Published Author --- Springer Nature
+-   🎯 IIT Bombay E-Cell Campus Ambassador
+-   👨‍💼 President --- Entrepreneurship Cell (E-Cell), BVRIT
+-   🏅 National-Level Hackathon Finalist
+
+------------------------------------------------------------------------
+
+# 📊 GitHub Statistics
+
+```{=html}
+<p align="center">
+```
+`<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YESH-ctrl&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YESH-ctrl&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+```{=html}
+<p align="center">
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=YESH-ctrl&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+# 🐍 Contribution Snake
+
+> Enable the GitHub Action to generate the snake animation
+> automatically.
+
+``` markdown
+![](https://raw.githubusercontent.com/YESH-ctrl/YESH-ctrl/output/github-contribution-grid-snake.svg)
+```
+
+------------------------------------------------------------------------
+
+# 🤝 Connect With Me
+
+```{=html}
+<p align="center">
+```
+`<a href="https://linkedin.com/in/dasari-yeswanth-1202h07">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
+`<a href="mailto:yeswanthdasari1412@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
+
+```{=html}
+<h3 align="center">
+```
+"Building intelligent systems that transform data into meaningful
+decisions."
+
+```{=html}
+</h3>
+```
